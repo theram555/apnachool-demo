@@ -1,2 +1,2 @@
-# apnachool-demo
+# apnaschool-demo
 This is my first Git Repository.
