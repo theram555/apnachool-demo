@@ -3,4 +3,4 @@ Prospectus demo
 <br>
 Apnaschool is india's first online coding learning school.
 <br>
-Author-Naresh.
+Author-Naresh (apnaschool)
