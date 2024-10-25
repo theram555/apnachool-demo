@@ -1,2 +1,6 @@
 # apnaschool-demo
-This is my first Git Repository.
+Prospectus demo
+<br>
+Apnaschool is india's first online coding learning school.
+<br>
+Author-Naresh.
